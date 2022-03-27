@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" href="pb3.css">
+	<link rel="stylesheet" href="flipCards.css">
 	<script>
 		var n=6;
 		index=[];
